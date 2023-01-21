@@ -1,0 +1,24 @@
+{
+  "name": "aether-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass-watch": "sass --watch sass/main.scss:style.css --style compressed",
+    "sass-prodbuild": "sass sass/main.scss:style.css --style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drewcauchi77/aether-theme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drewcauchi77/aether-theme/issues"
+  },
+  "homepage": "https://github.com/drewcauchi77/aether-theme#readme",
+  "devDependencies": {
+    "sass": "^1.57.1"
+  }
+}
